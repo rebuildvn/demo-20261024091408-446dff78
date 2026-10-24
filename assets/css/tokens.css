@@ -1,0 +1,27 @@
+/* Measured design of the business's current website (rebuild.vn design tokens). */
+:root {
+  --color-primary: #7e22ce;
+  --color-secondary: #a855f7;
+  --color-accent: #c4b5fd;
+  --color-background: #ffffff;
+  --color-bg: #ffffff;
+  --color-surface: #f9f7ff;
+  --color-text: #1a0533;
+  --color-muted: #6b5e8a;
+  --color-border: #e9e3f5;
+  --font-body: "Be Vietnam Pro", system-ui, sans-serif;
+  --font: "Be Vietnam Pro", system-ui, sans-serif;
+  --font-heading: "Be Vietnam Pro", system-ui, sans-serif;
+  --font-size-body: 16px;
+  --font-size-h1: 56px;
+  --font-size-h2: 44px;
+  --font-size-h3: 17px;
+  --radius-sm: 4px;
+  --radius-md: 14px;
+  --radius-lg: 34px;
+  --radius-pill: 9999px;
+  --radius: 14px;
+  --shadow: rgba(126, 34, 206, 0.07) 0px 2px 8px 0px;
+  --container: 1280px;
+  --space-unit: 4px;
+}
